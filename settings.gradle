@@ -1,0 +1,2 @@
+//include ':android', 'android:app', ':common'
+include ':app', ':common'
